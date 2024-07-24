@@ -12,8 +12,8 @@ A C++17-compatible header that provides useful functions which help with the sol
     * [Operations on Grid objects](#operations-on-grid-objects)
 * [How It Works](#sudoku-solver---how-it-works)
 * [Running Tests](#running-tests)
-* [Acknowledgements](#acknowledgements)
-* [Tools](#tools)
+  
+  
 
 ## Usage 
 
@@ -245,11 +245,6 @@ This particular algorithm employs the use of backtracking, one of the more commo
 ## Running Tests
 * To run the tests, enter `c++ --std=c++17 tests/test_sudoku_suite.cpp` and then run the executable produced.
 
-## Acknowledgements
 
-* Shriram R - Idea Inspiration
-* Aravind B - Puzzle Display Design Ideas
 
-## Tools
-* Vim Editor
-* Clang C++ Compiler
+
